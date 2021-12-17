@@ -1,0 +1,60 @@
+.nav-font {
+  font-family: 'Bungee Shade', cursive;
+  font-size: large;
+}
+
+.home-font {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.about-font {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.projects-font {
+  font-family: 'Road Rage', cursive;
+  font-size: xx-large;
+}
+
+.projects-bar-font {
+  font-family: 'Libre Barcode 128 Text', cursive;
+}
+
+.skills-font {
+  font-family: 'Gugi', cursive;
+}
+
+.footer-font {
+  font-family: 'Press Start 2P', cursive;
+  font-size: x-small;
+}
+
+.navbar {
+  background-image: linear-gradient(to bottom left, #699689, #3f4e7e, #1917b8ce);
+}
+
+.skills {
+  background-color: #ffffff10;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.footer {
+  background-color: #2f2649b0;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+ 
+.fadeIn {
+  opacity: 0;
+  transform: translateY(25vh);
+  visibility: hidden;
+  transition: opacity 1s ease-out;
+  will-change: opacity, visibility;
+}
+
+.fadeIn.is-visible {
+  opacity: 1;
+  transform: none;
+  visibility: visible;
+}
