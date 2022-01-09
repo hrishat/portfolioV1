@@ -38,24 +38,26 @@ const Skills = () => {
               <span>Flexbox</span><br />
               <span className="text-success">Bootstrap</span><br />
               <span className="text-success">JavaScript</span><br />
-              <span className="text-success">TypeScript</span><br />
-              <span className="text-success">Angular</span>
+              <span>TypeScript</span><br />
               <span className="text-success">React</span><br />
+              <span>Angular</span>
             </div>
 
             <div className="card-text col">
               <h3 className="text-success">Backend Skills</h3>
               <hr />
+              <span className="text-success">Node.js</span><br />
+              <span className="text-success">Express</span><br />
               <span className="text-success">MangoDB</span><br />
-              <span>Java</span><br />
-              <span className="text-success">Spring MVC</span>
+              <span>SQL</span>
             </div>
 
             <div className="card-text col">
               <h3 className="text-success">Additional Skills</h3>
               <hr />
               <span>Cordova</span><br />
-              <span className="text-success">Ionic</span>
+              <span className="text-success">Ionic</span><br />
+              <span className="text-success">webpack</span>
             </div>
           </div>
         </div>

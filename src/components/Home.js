@@ -45,7 +45,7 @@ const Home = () => {
                         <div className="row">Check me out elsewhere</div>
                         <a className="col-auto" href={"https://www.facebook.com/hrishat.rezaul"} target={"_blank"}><Facebook /></a>
                         <a className="col-auto" href={"https://twitter.com/rezzie_rich"} target={"_blank"}><Twitter /></a>
-                        <a className="col-auto" href={"https://www.linkedin.com/in/rezaul-karim-2ab49a199/"} target={"_blank"}><Linkedin /></a>
+                        <a className="col-auto" href={"https://www.linkedin.com/in/rezaul-karim54"} target={"_blank"}><Linkedin /></a>
                         <a className="col-auto" href={"https://github.com/rishat54"} target={"_blank"}><Github /></a> </div>
                 </div>
                 <div className="col-auto">
