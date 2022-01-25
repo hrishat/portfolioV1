@@ -40,7 +40,9 @@ const Skills = () => {
               <span className="text-success">JavaScript</span><br />
               <span>TypeScript</span><br />
               <span className="text-success">React</span><br />
+              <span className="text-success">Redux</span><br />
               <span>Angular</span>
+
             </div>
 
             <div className="card-text col">
@@ -49,7 +51,8 @@ const Skills = () => {
               <span className="text-success">Node.js</span><br />
               <span className="text-success">Express</span><br />
               <span className="text-success">MangoDB</span><br />
-              <span>SQL</span>
+              <span>SQL</span><br />
+              <span>RESTful API</span>
             </div>
 
             <div className="card-text col">
